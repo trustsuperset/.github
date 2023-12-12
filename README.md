@@ -4,7 +4,7 @@
 
 ## Mission: Proceeds to the people. 
 
-Superset is a Decentralized Autonomous Organization with the mission of ensuring its members receive a fair share of the value created from their data.
+Superset is a Data Trust with the mission of ensuring its members receive a fair share of the value created from their data.
 
 Superset seeks to harness the collective wisdom of its members, with the goal of unlocking the value of their combined data by holding the end users of the data accountable to Superset members.
 
