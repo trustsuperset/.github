@@ -19,11 +19,11 @@ Superset is a cybernetically enhanced members’ club, operated for and by data 
 
 Superset leverages blockchain-based smart contracts to improve transparency and auditability so that Superset members can hold the users of their data accountable.
 
-## Partnership: Superset and Delphia.
+## Founding Partnership
 
-Delphia is providing Superset members with innovative mechanisms to contribute data and to be compensated for their contributions.
+Delphia, a fintech company has partnered with Superset to provide members with innovative mechanisms to contribute data and to be compensated for their contributions.
 
-Furthermore, Superset will collaborate with Delphia to ensure members have a say in how their data may be used and the compensation they receive for their contributions.
+Furthermore, Superset will collaborate with Delphia to ensure Superset members have a say in how their data may be used and the compensation they receive for their contributions.
 
 ## Ecosystem: A more equitable data economy.
 
